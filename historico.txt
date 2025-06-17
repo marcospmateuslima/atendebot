@@ -1,0 +1,15 @@
+[16/06/2025 21:35:05] Pergunta: quais servicos voces tem
+[16/06/2025 21:35:05] Resposta: Oferecemos consultoria em TI, suporte técnico e soluções de automação.
+
+[16/06/2025 21:35:10] Pergunta: qual seu horario de funcionamento?
+[16/06/2025 21:35:10] Resposta: Atendemos de segunda a sexta, das 8h ás 18h.
+
+[16/06/2025 21:35:18] Pergunta: qual o endereço ?
+[16/06/2025 21:35:18] Resposta: Desculpe, não entendi sua pergunta. Tente reformular.
+
+[16/06/2025 21:38:47] Pergunta: qual o endereço ?
+[16/06/2025 21:38:47] Resposta: Desculpe, não entendi sua pergunta. Tente reformular.
+
+[16/06/2025 21:39:13] Pergunta: quais servicos voces tem
+[16/06/2025 21:39:13] Resposta: Oferecemos consultoria em TI, suporte técnico e soluções de automação.
+
